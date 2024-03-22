@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ddd6254-c492-438d-bd25-472fb1434e94" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/3Dsource/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/.idea/3Dsource.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/3Dsource/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU01204-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU01604-3.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU01605-3.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU01605-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU01610-2.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU01610-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU02004-3.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU02005-3.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU02005-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU02010-2.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU02010-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU02505-3.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU02505-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU02510-3.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU03205-3.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU03205-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU03210-3.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU03210-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU04005-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU04005-5.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU04010-3.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU04010-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU05005-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU05010-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU06310-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU06310-5.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU08010-5.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP-GB/SFU08010-6.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/ACQ63x70S_0_+__.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU01204-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU01604-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU01605-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU01610-3.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU01610-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU02004-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU02005-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU02504-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU02505-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU02506-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU02508-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU02510-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU03204-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU03205-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU03206-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU03208-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU03210-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU04005-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU04006-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU04008-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU04010-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU05010-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU05020-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU06310-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU06320-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU08010-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU08020-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/3Ddata/STP/SFU10020-4.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/BaseGui.py" beforeDir="false" afterPath="$PROJECT_DIR$/3Dsource/BaseGui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/Create_Drill.py" beforeDir="false" afterPath="$PROJECT_DIR$/3Dsource/Create_Drill.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/Debug/MainGui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/Debug/easy_gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/Debug/mainwindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/Debug/qtDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/Debug/test_gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/Debug/test_qtDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/MainGui.py" beforeDir="false" afterPath="$PROJECT_DIR$/3Dsource/MainGui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/MainGui.ui" beforeDir="false" afterPath="$PROJECT_DIR$/3Dsource/MainGui.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/Pic/666.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/Vision.py" beforeDir="false" afterPath="$PROJECT_DIR$/3Dsource/Vision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/Vision.ui" beforeDir="false" afterPath="$PROJECT_DIR$/3Dsource/Vision.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/.idea/examples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_2d_fillet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_animation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_boolean_fuzzy_cut_emmenthaler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_boolean_sewed_shapes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_classic_occ_bottle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_dimensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_background_gradient_color.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_background_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_callbacks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_camera_projection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_clip_planes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_colorscale.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_customize_linewidth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_customize_prs3d.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_dont_show_edges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_export_to_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_line_properties.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_manipulator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_material_shape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_point_cloud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_point_properties.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_quality.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_raytracing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_set_edge_color.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_signal_slots.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_textured_shape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_z_order_transparency.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_display_zlayer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_exception.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_export_step_ap203.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_export_stl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_font_helloworld.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_font_register.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_airfoil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_axis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_bisector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_bounding_box.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_bspline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_curves2d_from_curve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_curves2d_from_offset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_ellipsoid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_face_recognition_from_stepfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_faircurve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_geomplate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_medial_axis_offset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_minimal_distance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_nurbs_converter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_oriented_bounding_box.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_overlap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_parabola.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_point_from_curve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_point_from_intersection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_project_point_on_curve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_project_point_on_wire.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_quaternion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_recognize_feature.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_splinecage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_geometry_surface_from_curves.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_gfa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_helloworld.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_inherit_topods_shape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_load_brep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_load_iges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_load_step_ap203.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_load_step_ap203_ocaf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_load_step_with_colors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_load_stl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_matplotlib_box.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_mesh_gmsh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_modeling_bool_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_modeling_sprocket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_offscreen_rendering.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_parallel_slicer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_shape_pickling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_shape_properties.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_simple_mesh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_tesselation_vertices_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_boolean.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_boolean_general_fuse_algorithm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_draft_angle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_edge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_evolved_shape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_face.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_fillet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_glue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_heightmap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_holes_in_face.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_local_ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_pipe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_prism.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_revolved_shape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_splitter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_tetrahedron.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_through_sections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_uv_to_cartesian_coordinates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_topology_vertex_filleting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_visualization_3d_to_2d_screen_coordinates.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_visualization_ais_coloredshape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_visualization_camera.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_visualization_glsl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_visualization_graphic3d_custom_opengl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_visualization_overpaint_viewer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_STEP_to_X3D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_mesh_quality.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_threejs_bigfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_threejs_bigfile_multipleshapes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_threejs_bigfile_oneshape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_threejs_cylinderhead_faces.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_threejs_helix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_threejs_random_toruses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_threejs_torus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_x3dom_bigfile_multipleshapes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_x3dom_cylinderhead.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/examples/core_webgl_x3dom_random_boxes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/icons/open.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/sprial.py" beforeDir="false" afterPath="$PROJECT_DIR$/3Dsource/sprial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/参考文件/core_gear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/参考文件/core_load_step_with_colors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/参考文件/c参考文件.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/参考文件/gear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3Dsource/参考文件/test2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/3Dsource" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28FVqZsfV79uSHxA7FNQO2wyt14" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gear-master" />
+  </component>
+  <component name="RunManager" selected="Python.BaseGui">
+    <configuration name="BaseGui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="毕设终版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3Dsource" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3Dsource/BaseGui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Create_Drill" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="毕设终版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3Dsource" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3Dsource/Create_Drill.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bottle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="毕设终版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3Dsource" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3Dsource/bottle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="liangan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="毕设终版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3Dsource" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3Dsource/liangan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sprial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="毕设终版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3Dsource" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3Dsource/sprial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BaseGui" />
+        <item itemvalue="Python.Create_Drill" />
+        <item itemvalue="Python.bottle" />
+        <item itemvalue="Python.sprial" />
+        <item itemvalue="Python.liangan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ddd6254-c492-438d-bd25-472fb1434e94" name="Changes" comment="" />
+      <created>1650812512129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650812512129</updated>
+    </task>
+    <servers />
+  </component>
+</project>
